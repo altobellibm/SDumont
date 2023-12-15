@@ -19,7 +19,7 @@ conda activate SD
 pip install -r requirements.txt
 ```
 
-3. Baixar e criar pasta com a base de dados MNIST:
+3. Baixar e criar pasta com as imagens da base de dados MNIST:
 
 ```bash
 python load_dataset.py
